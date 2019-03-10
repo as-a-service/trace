@@ -2,7 +2,7 @@
 
 A simple web service that traces the given bitmap image into an SVG file. 
 
-Run with `docker run -p 8080:8080 gcr.io/steren-demo/trace`
+Run with `docker run -p 8080:8080 gcr.io/as-a-service-dev/trace`
 
 ### URL parameters:
 
@@ -16,7 +16,7 @@ Run with `docker run -p 8080:8080 gcr.io/steren-demo/trace`
 
 ## Deploy to your server
 
-The following container image always reflects the latest version of the `master` branch of this repo: `gcr.io/steren-demo/trace`
+The following container image always reflects the latest version of the `master` branch of this repo: `gcr.io/as-a-service-dev/trace`
 
 ## TODO
 
