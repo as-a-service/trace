@@ -45,3 +45,5 @@ The following container image always reflects the latest version of the `master`
 ## TODO
 
 * also accept images via POST requests.
+
+![Cloud Build](https://badger-l7zawt5jsq-uw.a.run.app/build/status?project=as-a-service-dev&id=3c6a06a4-af7d-47c2-81ee-03150debba58)
